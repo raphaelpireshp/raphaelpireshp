@@ -2,9 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4CAF50"/>
 <br>
 
-# 👋 Seja Bem-Vindo(a)! Eu sou o Luiz Gustavo 👨‍💻
+# 👋 Seja Bem-Vindo(a)! Eu sou o Raphael Pires 👨‍💻
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=4CAF50&bg=00000000&no=2&ff=digi&tb=Visitas%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fraphaelpireshp&s=21&c=4CAF50&bg=00000000&no=2&ff=digi&tb=Visitas%3A++&ta=" /></p> 
 </div>
 
 🌟 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e soluções criativas.
@@ -44,19 +44,19 @@
 
 ## 📊 Meus Status no GitHub
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavo664&layout=compact&theme=transparent&title_color=808080&text_color=808080" alt="Top Languages">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizgustavo664&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080" alt="Luiz Gustavo GitHub Stats">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpireshp&layout=compact&theme=transparent&title_color=808080&text_color=808080" alt="Top Languages">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=raphaelpireshp&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080" alt="raphaelpireshp GitHub Stats">
 
 ---
 
 ## 📫 Contato
 Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo sobre tecnologia, me chame!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-campos-cazelatto-93783b2b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📧 gustavo.cazelatto@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/raphaelpireshp) | 📧 raphaelpireshp@gmail.com
 
 ---
 
-<p align="center"><i>© 2025 Luiz Gustavo Campos Cazelatto</i></p>
+<p align="center"><i>© 2025 raphaelpireshp</i></p>
 
 </div>
 <!-- 🌊 Footer animado com borda verde -->
