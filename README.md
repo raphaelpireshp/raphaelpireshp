@@ -1,6 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4CAF50"/>
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE3867" alt="Onda rosa" /><br>
 
 # 👋 Ola! Eu sou o Raphael Pires 
 <div align="center">
@@ -47,8 +46,7 @@
 ## 📫 Contato
 Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo sobre tecnologia, me chame!
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/raphaelpireshp](https://www.linkedin.com/in/raphael-pires-516a6b369)) | 📧 raphaelpireshp@gmail.com
-
+<a href="https://www.linkedin.com/in/raphael-pires-516a6b369" target="_blank">🔗 LinkedIn</a> | 📧 <a href="mailto:raphaelpireshp@gmail.com">raphaelpireshp@gmail.com</a>
 ---
 
 <p align="center"><i>© 2025 raphaelpireshp</i></p>
