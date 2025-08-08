@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4CAF50"/>
+<br>
 
-<!--
-**raphaelpireshp/raphaelpireshp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Seja Bem-Vindo(a)! Eu sou o Luiz Gustavo 👨‍💻
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=4CAF50&bg=00000000&no=2&ff=digi&tb=Visitas%3A++&ta=" /></p> 
+</div>
 
-Here are some ideas to get you started:
+🌟 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e soluções criativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas que Utilizo
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🧠 Meus Conhecimentos
+
+| 🖥 Frontend       | 🔙 Backend     | 🛠 Ferramentas       | 🎨 Design     | 🗃 Banco de Dados |
+|-------------------|----------------|------------------------|---------------|--------------------|
+| HTML              | Node.js        | React Native           | Figma         | MySQL              |
+| CSS               | Django         | Express.js             | Photoshop     | SQLite             |
+| JavaScript        |                | Bootstrap              | Canva         |                    |
+
+---
+
+## 📊 Meus Status no GitHub
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavo664&layout=compact&theme=transparent&title_color=808080&text_color=808080" alt="Top Languages">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizgustavo664&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080" alt="Luiz Gustavo GitHub Stats">
+
+---
+
+## 📫 Contato
+Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo sobre tecnologia, me chame!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-campos-cazelatto-93783b2b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📧 gustavo.cazelatto@gmail.com
+
+---
+
+<p align="center"><i>© 2025 Luiz Gustavo Campos Cazelatto</i></p>
+
+</div>
+<!-- 🌊 Footer animado com borda verde -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer"/>
