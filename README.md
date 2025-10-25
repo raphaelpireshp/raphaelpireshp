@@ -36,10 +36,12 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 
 | 🖥 Frontend  | 🔙 Backend | ⚙️ Ferramentas & Plataformas | 🎨 Design & UX | 🗃 Banco de Dados | 📊 Análise de Dados |
 | ------------ | ---------- | ---------------------------- | -------------- | ----------------- | ------------------- |
-| HTML         | Node.js    | VS Code                      | Canva          | MySQL             |  Excel              |
+| HTML         | Node.js    | VS Code                      | Canva          | MySQL             | Excel               |
 | CSS          | Express.js | GitHub Desktop               |                | MongoDB           |                     |
-| JavaScript   | Ngrok      | GitHub                       |                | Excel             |                     |
-| React Native |            |                              |                |                   |                     |
+| JavaScript   |            | GitHub                       |                |                   |                     |
+| React Native |            | Ngrok                        |                |                   |                     |
+|              |            |                              |                |                   |                     |
+
 
 ---
 
