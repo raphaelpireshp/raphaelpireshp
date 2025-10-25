@@ -40,7 +40,6 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 | CSS          | Express.js | GitHub Desktop               |                | MongoDB           |                     |
 | JavaScript   |            | GitHub                       |                |                   |                     |
 | React Native |            | Ngrok                        |                |                   |                     |
-|              |            |                              |                |                   |                     |
 
 
 ---
