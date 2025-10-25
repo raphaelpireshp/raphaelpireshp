@@ -15,7 +15,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,7 +35,7 @@
 | 🖥 Frontend       | 🔙 Backend     | 🛠 Ferramentas       | 🎨 Design     | 🗃 Banco de Dados | 📊 Dados & BI |
 |-------------------|----------------|------------------------|---------------|--------------------|----------------|
 | HTML              | Node.js        | React Native           | Canva         | MySQL              | Excel          |
-| CSS               | Express.js     | Bootstrap              |               | MongoDB            |                |
+| CSS               | Express.js     |                        |               | MongoDB            |                |
 | JavaScript        |                |                        |               |                    |                |
 
 ---
