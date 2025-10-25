@@ -34,12 +34,12 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 
 ## 🧠 Áreas de Conhecimento
 
-| 🖥 Frontend        | 🔙 Backend          | ⚙️ Ferramentas & Plataformas | 🎨 Design & UX     | 🗃 Banco de Dados |
-|--------------------|--------------------|------------------------------|--------------------|------------------|
-| HTML               | Node.js            | VS Code                      | Canva              | MySQL            |
-| CSS                | Express.js         | GitHub Desktop               |                    | MongoDB          |
-| JavaScript         | Ngrok              | GitHub                       |                    | Excel            |
-| React Native       |                    |                              |                    |                  |
+| 🖥 Frontend  | 🔙 Backend | ⚙️ Ferramentas & Plataformas | 🎨 Design & UX | 🗃 Banco de Dados | 📊 Análise de Dados |
+| ------------ | ---------- | ---------------------------- | -------------- | ----------------- | ------------------- |
+| HTML         | Node.js    | VS Code                      | Canva          | MySQL             |  Excel              |
+| CSS          | Express.js | GitHub Desktop               |                | MongoDB           |                     |
+| JavaScript   | Ngrok      | GitHub                       |                | Excel             |                     |
+| React Native |            |                              |                |                   |                     |
 
 ---
 
