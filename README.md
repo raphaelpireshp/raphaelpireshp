@@ -46,7 +46,7 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 ## 🎓 Certificações & Cursos Relevantes
 
 ### 📌 **Formações / Trilhas**
-- **Análise de Dados e IA Generativa — Nivelamento (Alura)**  
+- **Análise de Dados e IA Generativa — Nivelamento (Alura com Santander Open Academy)**  
   Inclui:
 - Excel avançado (tabelas dinâmicas, funções, gráficos)
 - Power BI (ETL + dashboards)
