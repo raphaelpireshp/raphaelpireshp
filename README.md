@@ -3,8 +3,7 @@
 
 # 👋 Olá! Eu sou o Raphael Pires  
 <div align="center">
-  <p align="center">
-  </p> 
+  <p align="center"></p> 
 </div>
 
 💡 Desenvolvedor apaixonado por tecnologia, inovação e soluções inteligentes.  
@@ -42,7 +41,47 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 | JavaScript   |            | GitHub                       |                |                   |                     |
 | React Native |            | Ngrok                        |                |                   |                     |
 
+---
 
+## 🎓 Certificações & Cursos Relevantes
+
+### 📌 **Formações / Trilhas**
+- **Análise de Dados e IA Generativa — Nivelamento (Alura)**  
+  Inclui:
+  - Excel avançado (tabelas dinâmicas, funções, gráficos)
+  - Power BI (ETL + dashboards)
+  - IA Generativa
+  - Engenharia de Prompt  
+
+---
+
+### 📘 **Excel & Power BI**
+- Excel: domine o editor de planilhas  
+- Excel: lógica booleana, filtros e busca  
+- Excel: tabelas dinâmicas e gráficos dinâmicos  
+- Funções com Excel: operações matemáticas  
+- Recursos Visuais com Excel: gráficos e formatações  
+- Power BI Desktop: meu primeiro dashboard  
+- Power BI Desktop: ETL com Power Query  
+
+---
+
+### 🤖 **Inteligência Artificial**
+- Engenharia de Prompt  
+- IA: explorando o potencial da IA Generativa  
+- ChatGPT: aplicações práticas  
+- Aprendizagem: personalizando estudos com ChatGPT  
+
+---
+
+### 💻 **Programação & Banco de Dados**
+- JavaScript: manipulando o DOM  
+- JavaScript: consumindo APIs  
+- Modelagem de banco de dados relacional  
+- SQL: Joins, Views e Transações  
+- MongoDB: conhecendo NoSQL  
+
+---
 
 ## 📊 Status no GitHub
 
