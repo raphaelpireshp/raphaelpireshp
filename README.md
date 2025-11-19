@@ -52,6 +52,7 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
   - Power BI (ETL + dashboards)
   - IA Generativa
   - Engenharia de Prompt  
+  - Produtividade e uso de IA no estudo
 
 ---
 
