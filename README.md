@@ -25,6 +25,7 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)
@@ -37,10 +38,32 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 | 🖥 Frontend  | 🔙 Backend | ⚙️ Ferramentas & Plataformas | 🎨 Design & UX | 🗃 Banco de Dados | 📊 Análise de Dados |
 | ------------ | ---------- | ---------------------------- | -------------- | ----------------- | ------------------- |
 | HTML         | Node.js    | VS Code                      | Canva          | MySQL             | Excel               |
-| CSS          | Express.js | GitHub Desktop               |                | MongoDB           |                     |
-| JavaScript   |            | GitHub                       |                |                   |                     |
-| React Native |            | Ngrok                        |                |                   |                     |
+| CSS          | Express.js | GitHub Desktop               |                | MongoDB           | Power BI            |
+| JavaScript   |            | GitHub                       |                |                   | Tabelas Dinâmicas   |
+| React Native |            | Ngrok                        |                |                   | Dashboards          |
 
+---
+
+## 📊 Power BI & Análise de Dados
+
+Desenvolvo dashboards interativos voltados para análise estratégica, projeções, indicadores e visualização clara de dados.
+
+### 🛠️ Competências em Dados  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tabelas Dinâmicas](https://img.shields.io/badge/Tabelas%20Dinâmicas-0A66C2?style=for-the-badge)
+![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-5D3FD3?style=for-the-badge)
+
+### 🎓 Certificações  
+📘 **Excel: Tabelas Dinâmicas e Gráficos — Alura**  
+📙 **Power BI Desktop: meu primeiro dashboard — Alura**
+
+### 📈 Tipos de Projetos que Desenvolvo  
+- Dashboards completos e interativos  
+- Projeções de cenários  
+- Análises de crescimento  
+- Indicadores e métricas inteligentes  
+- Relatórios visuais integrados entre Excel, Power BI e SQL  
 
 ---
 
