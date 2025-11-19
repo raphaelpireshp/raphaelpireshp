@@ -48,11 +48,11 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 ### 📌 **Formações / Trilhas**
 - **Análise de Dados e IA Generativa — Nivelamento (Alura)**  
   Inclui:
-  - Excel avançado (tabelas dinâmicas, funções, gráficos)
-  - Power BI (ETL + dashboards)
-  - IA Generativa
-  - Engenharia de Prompt  
-  - Produtividade e uso de IA no estudo
+- Excel avançado (tabelas dinâmicas, funções, gráficos)
+- Power BI (ETL + dashboards)
+- IA Generativa
+- Engenharia de Prompt  
+- Produtividade e uso de IA no estudo
 
 ---
 
