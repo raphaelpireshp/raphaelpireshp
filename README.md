@@ -39,8 +39,8 @@ Em constante evolução, buscando unir **lógica, design e dados** para transfor
 | ------------ | ---------- | ---------------------------- | -------------- | ----------------- | ------------------- |
 | HTML         | Node.js    | VS Code                      | Canva          | MySQL             | Excel               |
 | CSS          | Express.js | GitHub Desktop               |                | MongoDB           | Power BI            |
-| JavaScript   |            | GitHub                       |                |                   | Tabelas Dinâmicas   |
-| React Native |            | Ngrok                        |                |                   | Dashboards          |
+| JavaScript   |            | GitHub                       |                |                   |                     |
+| React Native |            | Ngrok                        |                |                   |                     |
 
 ---
 
@@ -58,12 +58,7 @@ Desenvolvo dashboards interativos voltados para análise estratégica, projeçõ
 📘 **Excel: Tabelas Dinâmicas e Gráficos — Alura**  
 📙 **Power BI Desktop: meu primeiro dashboard — Alura**
 
-### 📈 Tipos de Projetos que Desenvolvo  
-- Dashboards completos e interativos  
-- Projeções de cenários  
-- Análises de crescimento  
-- Indicadores e métricas inteligentes  
-- Relatórios visuais integrados entre Excel, Power BI e SQL  
+
 
 ---
 
